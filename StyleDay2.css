@@ -1,0 +1,43 @@
+p
+{	word-break: break-word;
+}
+body
+{
+	background-color: white;
+}
+.p1Class
+{
+	color: black;
+	border-style: solid;
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
+.p2Class
+{
+	color: black;
+	padding-left: 2em;
+	padding-right: 2em;
+	padding-top: 1em;
+	padding-bottom: 1em;
+	border-style: solid
+}
+.linkClass
+{
+	color: white;
+	margin-left: 2.5em;
+	text-decoration: underline;
+}
+.link2Class
+{
+	color: white;
+	text-decoration: underline;
+}
+.headerClass
+{
+	color: black;
+	font-size: 180%;
+}
+.tabClass
+{
+	margin-left:5em;
+}
